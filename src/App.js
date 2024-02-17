@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>Salom</h1>
+          <h1>Salomcha</h1>
           Learn React
         </a>
       </header>
